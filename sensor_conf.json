@@ -1,0 +1,6 @@
+{
+     "dev_type": "sensor",
+     "device_id": "MT1",
+     "desc": "Moisture sensor",
+     "rc_address": "test.mosquitto.org"
+}
